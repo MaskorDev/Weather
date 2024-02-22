@@ -1,4 +1,4 @@
-package DTO;
+package com.maskordev.weather.dto;
 
 import lombok.Getter;
 import lombok.Setter;
